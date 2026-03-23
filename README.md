@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GitHub Organization Access Report API
 
 ## Overview
