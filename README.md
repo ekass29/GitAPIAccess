@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Organization Access Report API
 
 ## Overview
@@ -322,3 +323,6 @@ For organizations with 1000+ repositories and multi-server deployments, the foll
 - **Async Report Generation**: Expose a job endpoint that returns a job ID, then allow polling for completion
 - **CDN/Caching Proxy**: Nginx with caching in front of the API for geographic distribution
 
+=======
+# GitAPIAccess
+>>>>>>> 571034b52eb2e59d8a5f8d94f37bb8d236f086cc
